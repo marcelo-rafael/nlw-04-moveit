@@ -1,6 +1,4 @@
-import { ExperienceBar } from "../components/ExperienceBar";
-
-const blA = "BLA"
+import { ExperienceBar } from '../components/ExperienceBar'
 
 export default function Home() {
   return (
