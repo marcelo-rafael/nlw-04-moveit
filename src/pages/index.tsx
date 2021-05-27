@@ -1,5 +1,7 @@
 import { ExperienceBar } from '../components/ExperienceBar'
 
+const bla = 'var'
+
 export default function Home() {
   return (
     <div className="container">
