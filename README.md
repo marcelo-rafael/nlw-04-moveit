@@ -46,13 +46,13 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> • 
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-layout">Layout</a> • 
  <a href="#-melhorias-na-aplicacao">Melhorias na Aplicação</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#user-content--licença">Licença</a> • 
 </p>
 
 ## 🚀 Sobre o Projeto
@@ -119,22 +119,22 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
 ## :tada: Melhorias na Aplicação
 
 
-    -Login no Github
-    -Opção de PWA na APlicação
-    -Pagina de Leaderboard na aplicação
-    -Theme dark na aplicação
-    -Switch para alterar os themes
-    -Save theme no localStorage
-    -Autenticação com github
-    -Toast como notificação
-    -Test com Jest;
-    -storybook para os component;
-    -Ícones para representar os botões
-    -Desenvolver a estilização e deixar responsivo
-    -Efetuar ajustes para o mobile e PWA
-    -Compartilhar com Redes Sociais
-    -Adicionar uma SideBar
-    -Adicionar component para SEO;
+    - [] Login no Github
+    - [] Opção de PWA na APlicação
+    - [] Pagina de Leaderboard na aplicação
+    - [] Theme dark na aplicação
+    - [] Switch para alterar os themes
+    - [] Save theme no localStorage
+    - [] Autenticação com github
+    - [] Toast como notificação
+    - [] Test com Jest;
+    - [] storybook para os component;
+    - [] Ícones para representar os botões
+    - [] Desenvolver a estilização e deixar responsivo
+    - [] Efetuar ajustes para o mobile e PWA
+    - [] Compartilhar com Redes Sociais
+    - [] Adicionar uma SideBar
+    - [] Adicionar component para SEO;
     
 ---
 
