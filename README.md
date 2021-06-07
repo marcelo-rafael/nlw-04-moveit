@@ -5,8 +5,26 @@
 <h1 align="center">
 🚧 MoveIt 2.0 | Em Construção 🚧
 </h1>
+ 
+ <div align="center">
 
-<p align="center">
+ ![BADGE_OPEN_SOURCE] ![BADGE_OPEN_ISSUES] ![BADGE_CLOSED_ISSUES] ![BADGE_STARS] ![BADGE_FORKS]
+
+<!-- Badges -->
+
+[BADGE_CLOSED_ISSUES]: https://img.shields.io/github/issues-closed/marcelo-rafael/nlw-04-moveit?color=blue
+
+[BADGE_OPEN_ISSUES]: https://img.shields.io/github/issues/marcelo-rafael/nlw-04-moveit?color=blue
+
+[BADGE_STARS]: https://img.shields.io/github/stars/marcelo-rafael/nlw-04-moveit?style=social
+
+[BADGE_FORKS]: https://img.shields.io/github/forks/marcelo-rafael/nlw-04-moveit?style=social
+
+[BADGE_OPEN_SOURCE]: https://badges.frapsoft.com/os/v1/open-source.png?v=103
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
+  
+  <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=flat-square">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/nlw-04-moveit">
   
@@ -16,43 +34,37 @@
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/nlw-04-moveit?color=blue">
   </a>
   
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
-</p>
-
-<p align="center">
-
-  <a target="_blank" href="https://reactjs.org/">
-    <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
+  <a href="https://github.com/marcelo-rafael/nlw-04-moveit/stargazers">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/marcelo-rafael/nlw-04-moveit?style=flat-square&color=informational">
   </a>
   
-  <a target="_blank" href="https://nextjs.org/">
-      <img alt="NextJS" src="https://img.shields.io/static/v1?color=blue&label=Next&message=JS&?style=plastic&logo=Next.js">
-  </a>
-  
-  <a target="_blank" href="https://www.typescriptlang.org/">
-      <img alt="TypeScript" src="https://img.shields.io/static/v1?color=blue&label=TypeScript&message=JS&?style=plastic&logo=TypeScript">
-  </a>
-  
-</p>
+</div>
 
 <h1 align="center">
   Bem Vindo ao MoveIt 2.0
 </h1>
 
-## :information_source: O que é Next Level Week?
+
+
+## 🚀 Sobre o Projeto
+
+O move.it é um projeto que visa adicionar gamificação na sua rotina de trabalho, trazendo exercícios para o corpo e olhos a cada período de foco.
+
+### :information_source: O que é Next Level Week?
 
 O [NLW](https://nextlevelweek.com/inscricao/6) é uma semana prática com muito código, desafios, network e com um único objetivo: levá-lo ao próximo nível.
 Através do método da [Rocketseat](https://nextlevelweek.com/inscricao/1), você aprenderá novas ferramentas, tecnologias e descobrirá hacks que irão impulsionar sua carreira.
 Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na sua evolução como desenvolvedor.
 
-## 🚀 Sobre o Projeto
-
-MoveIt e uma aplicação para incentivar quem fica horas no computador a se exercitar, usando o método pomodoro, a cada 25 minutos concentrado no trabalho ele terá uma pausa para efetuar um pequeno exercício e com adição da gamificação na aplicação tudo fica mais divertido.
-O move.it é um projeto que visa adicionar gamificação na sua rotina de trabalho, trazendo exercícios para o corpo e olhos a cada período de foco.
-
 ## 🎨 Layout
 
-Design feito por [Tiago Luchtenberg](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0?node-id=160%3A2761)
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0?node-id=160%3A2761">
+  <img alt="Made by marcelo-rafael" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 
 ---
 
@@ -193,4 +205,63 @@ BASE_URL=
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 ---
+
+## **:star2: AGRADECIMENTOS**
+
+<div align=center>
+
+<table style="width:100%">
+  <tr align=center>
+    <th><strong>Next Level Week</strong></th>
+    <th><strong>Rocketseat</strong></th>
+    <th><strong>diego3g</strong></th>
+    <th><strong>maykbrito</strong></th>
+  </tr>
+  <tr align=center>
+    <td>
+      <a href="https://nextlevelweek.com/">
+        <img width="200" src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://rocketseat.com.br/">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diego3g">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981712-b7f61380-a8f6-11ea-9099-bd3677e97e39.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/maykbrito">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981753-1de29b00-a8f7-11ea-93cf-23d2ff65fa5c.png">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+# :man: Autor
+
+<img src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/LINKED_IN-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
+[![gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.rafael.goncalves@gmail.com)
+
+---
+
+## **:page_with_curl: LICENÇA**
+
+Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+
+<h3 align="center">
+Feito com ❤️ por <a href="https://www.linkedin.com/in/marcelo-rafael-goncalves/">Marcelo Rafael Gonçalves 💜🚀</a>
+</h3>
+
 
