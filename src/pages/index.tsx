@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import GithubCorner from 'react-github-corner'
 import { GetServerSideProps } from 'next'
 
 import { CompletedChallenges } from '../components/CompletedChallenges'
@@ -25,6 +26,13 @@ export default function Home(props: HomeProps) {
       currentExperience={props.currentExperience}
       challengesCompleted={props.challengesCompleted}
     >
+      <GithubCorner
+        href="https://github.com/marcelo-rafael/nlw-04-moveit"
+        bannerColor="#151513"
+        octoColor="#fff"
+        size={80}
+        direction="right"
+      />
       <div className={styles.container}>
         <Head>
           <title>Início | move.it</title>
