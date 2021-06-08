@@ -8,7 +8,7 @@
  
  <div align="center">
 
- ![BADGE_OPEN_SOURCE] ![BADGE_OPEN_ISSUES] ![BADGE_CLOSED_ISSUES] ![BADGE_STARS] ![BADGE_FORKS]
+  ![BADGE_OPEN_ISSUES] ![BADGE_CLOSED_ISSUES] ![BADGE_STARS] ![BADGE_FORKS]
 
 <!-- Badges -->
 
@@ -20,7 +20,7 @@
 
 [BADGE_FORKS]: https://img.shields.io/github/forks/marcelo-rafael/nlw-04-moveit?style=social
 
-[BADGE_OPEN_SOURCE]: https://badges.frapsoft.com/os/v1/open-source.png?v=103
+
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
   
